@@ -1,5 +1,0 @@
-AddEncoding gzip .gz
-<FilesMatch ".(js.gz|data.gz|symbols.json.gz|framework.js.gz)$">
-    ForceType application/javascript
-    Header set Content-Encoding gzip
-</FilesMatch>
