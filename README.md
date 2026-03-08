@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/logo.png" width="220" alt="First Star Arena logo">
+  <img src="./docs/logo.PNG" width="220" alt="First Star Arena logo">
 </p>
 
 <h1 align="center">First Star Arena</h1>
